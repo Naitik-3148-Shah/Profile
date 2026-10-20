@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Naitik Shah
 
-A beginner in Python and C++ and an aspiring Computer Scientist. I'm passionate about learning and exploring the fascinating world of Artificial Intelligence (AI) & Machine Learning (ML), quantum computing, etc.
+A beginner in Python and C++ and an aspiring Computer Scientist. I'm passionate about learning and exploring the fascinating world of Artificial Intelligence (AI) & Machine Learning (ML), quantum computing, Nano technology, etc.
 
 ## 🌱 What I'm currently learning
 
